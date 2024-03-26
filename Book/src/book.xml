@@ -52,4 +52,7 @@
   <xi:include href="chapter08.xml"/>
 
   <xi:include href="chapter09.xml"/>
+
+  <xi:include href="chapter10.xml"/>
+
 </book>
